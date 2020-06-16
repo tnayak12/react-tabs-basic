@@ -1,6 +1,6 @@
 {
     "name": "react-tabs-basic",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Basic React Tabs using Functional Render",
     "main": "build/index.js",
     "peerDependencies": {
